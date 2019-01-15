@@ -52,6 +52,8 @@ Minerbabe dev fee: 3% for Grin; 1% for the other coins.
 
 Download minerbabe image: https://cdn2.minerbabe.com/disk/minerbabe_v4.11en1.img.zip
 
+Manage your rigs at: https://en.dashboard.minerbabe.com
+
 Get tutorial and more information at www.minerbabe.com
 
 Enjoy!
