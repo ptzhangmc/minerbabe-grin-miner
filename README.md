@@ -58,10 +58,14 @@ Manage your rigs at: https://en.dashboard.minerbabe.com
 
 Get tutorial and more information at: www.minerbabe.com
 
+Telegram: https://t.me/joinchat/HkFS5xXBWHhA5QE-WfcxDg
+
 Enjoy!
 
 ### Minerbabe Screenshot
 
 ![image](https://user-images.githubusercontent.com/7948466/51162923-e541bc00-18d2-11e9-9076-2c9bb0305a99.png)
+
+
 
 
