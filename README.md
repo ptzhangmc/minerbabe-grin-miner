@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/7948466/51163162-c263d780-18d3-11e9-8d52-96003f7ce9df.png)
+
 # A Grin GPU miner from Minerbabe
 
 Minerbabe is an GPU mining OS base on Linux. Minerbabe support many digital coins.
