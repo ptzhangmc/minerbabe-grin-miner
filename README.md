@@ -46,7 +46,7 @@ NVIDIA 1080Ti 11G|0.551
 
 ROCm is a new computing driver from AMD. Unfortunately not all of the mining rigs support ROCm.
 
-The miner is being continuously optimized. Install Minerbabe to keep you get the latest miner.
+The miner is being continuously optimized. Install Minerbabe to automatically keep the miner being updated.
 
 Minerbabe dev fee: 3% for Grin; 1% for the other coins.
 
