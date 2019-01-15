@@ -2,13 +2,13 @@
 
 # A Grin GPU miner from Minerbabe
 
-Minerbabe is an GPU mining OS base on Linux. Minerbabe support many digital coins.
+Minerbabe is an GPU mining OS base on Linux. Minerbabe supports many digital coins.
 
 Today, Minerbabe releases a new miner to support Grin.
 
 You can use AMD/NVIDIA GPUs with 4G/6G/8G/10G memory to mining Grin now!
 
-The miner is optimized for GPU with different memory.
+The miner is optimized for GPUs with different memory.
 
 The test results on some typical GPU are below:
 
