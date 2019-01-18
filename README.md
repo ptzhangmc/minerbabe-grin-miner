@@ -16,6 +16,8 @@ The test results on some typical GPU are below:
 
 GPU| GPS
 ---|---
+AMD 380 4G|0.21
+AMD 560 4G|0.31
 AMD 470 4G|0.67
 AMD 570 4G|0.64
 AMD 570 4G on ROCm|0.90
