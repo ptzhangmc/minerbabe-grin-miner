@@ -17,6 +17,7 @@ The test results on some typical GPU are below:
 GPU| GPS
 ---|---
 AMD 380 4G|0.21
+AMD 550 4G|0.28
 AMD 560 4G|0.31
 AMD 470 4G|0.67
 AMD 570 4G|0.64
@@ -69,7 +70,7 @@ Enjoy!
 
 #### v0.6.4  2019-01-18
 
-1. Add support for AMD 380 and AMD 560;
+1. Add support for AMD 380 550 560;
 2. Reduce the delay rate of shares;
 
 ### Minerbabe Screenshot
