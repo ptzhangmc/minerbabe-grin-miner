@@ -65,6 +65,13 @@ Telegram: https://t.me/joinchat/HkFS5xXBWHhA5QE-WfcxDg
 
 Enjoy!
 
+### Release Notes
+
+#### v0.6.4  2019-01-18
+
+1. Add support for AMD 380 and AMD 560;
+2. Reduce the delay rate of shares;
+
 ### Minerbabe Screenshot
 
 ![image](https://user-images.githubusercontent.com/7948466/51162923-e541bc00-18d2-11e9-9076-2c9bb0305a99.png)
