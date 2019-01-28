@@ -71,6 +71,11 @@ Enjoy!
 
 ### Release Notes
 
+#### v0.7.0  2019-01-28
+
+1. Add "nocpu" feature for Nvidia gpu.
+2. Verify share's difficulty before submit.
+
 #### v0.6.4  2019-01-18
 
 1. Add support for AMD 380 550 560;
