@@ -59,7 +59,7 @@ The miner is being continuously optimized. Install Minerbabe to automatically ke
 
 Minerbabe dev fee: 3% for Grin; 1% for the other coins.
 
-Download minerbabe image: https://cdn2.minerbabe.com/disk/minerbabe_v4.12en.img.zip
+Download minerbabe image: https://cdn3.minerbabe.com/disk/minerbabe_v4.12en.img.zip
 
 Manage your rigs at: https://en.dashboard.minerbabe.com
 
