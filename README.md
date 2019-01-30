@@ -74,7 +74,7 @@ Enjoy!
 
 ### Release Notes
 
-#### pre release v0.0.6  2019-01-30
+#### pre release v0.0.7  2019-01-30
 
 1. Based on v0.7.0
 2. Add support for AMD Hawaii Arch GPU: RX290 RX390
