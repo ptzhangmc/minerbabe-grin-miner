@@ -16,27 +16,15 @@ The test results on some typical GPU are below:
 
 GPU| GPS
 ---|---
-AMD 380 4G|0.21
-AMD 550 4G|0.28
-AMD 560 4G|0.31
-AMD 390 4G|0.38
-AMD 470 4G|0.67
-AMD 570 4G|0.64
-AMD 470D 4G|0.70
-AMD 570 4G on ROCm|0.90
-AMD 390 8G|1.18
-AMD 570 8G|1.30
-AMD 570 8G on ROCm|1.50
-AMD 480 8G|1.26
-AMD 580 8G|1.32
-AMD 580 8G on ROCm|1.54
-AMD Vega64 8G|2.85
-NVIDIA 1050Ti 4G|0.855
-NVIDIA 1060 6G|1.95
-NVIDIA 1070 8G|2.88
-NVIDIA 1080 8G|3.10
-NVIDIA 1070Ti 8G|3.24
-NVIDIA 1080Ti 11G|5.10
+AMD 380 4G/8G|1.17
+AMD 560 4G/8G|0.81
+AMD 390 4G/8G|1.52
+AMD Vega 64 8G|3.53
+NVIDIA 1050Ti 4G|1.4
+NVIDIA 1060 6G|3.3
+NVIDIA 1070 8G|4.8
+NVIDIA 1080 8G|5.2
+NVIDIA 1080Ti 11G|7.35
 
 * Cuckatoo 31
 
@@ -44,10 +32,8 @@ GPU| GPS
 ---|---
 AMD 390 8G|0.150
 AMD 570 8G|0.161
-AMD 570 8G on ROCm|0.174
 AMD 480 8G|0.210
 AMD 580 8G|0.178
-AMD 580 8G on ROCm|0.197
 AMD Vega64 8G|0.410
 NVIDIA 1070 8G|0.316
 NVIDIA 1080 8G|0.339
@@ -60,7 +46,10 @@ ROCm is a new computing driver from AMD. Unfortunately not all of the mining rig
 
 The miner is being continuously optimized. Install Minerbabe to automatically keep the miner being updated.
 
-Minerbabe dev fee: 3% for Grin; 1% for the other coins.
+Minerbabe dev fee: 
+
+* 2% for Grin, half of which is for Grin Team;
+* 1% for the other coins.
 
 Download minerbabe image: https://cdn3.minerbabe.com/disk/minerbabe_v4.12en.img.zip
 
@@ -74,10 +63,11 @@ Enjoy!
 
 ### Release Notes
 
-#### pre release v0.0.7  2019-01-30
+#### v1.0.1  2019-02-22
 
-1. Based on v0.7.0
-2. Add support for AMD Hawaii Arch GPU: RX290 RX390
+1. Add support for AMD Hawaii Arch GPU: RX290 RX390
+2. The performance of Cuckaroo 29 is optimized.
+3. Reduce dev fee to 2%, half of the dev fee is for Grin Team.
 
 #### v0.7.0  2019-01-28
 
