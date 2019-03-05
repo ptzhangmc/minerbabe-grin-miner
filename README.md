@@ -81,6 +81,11 @@ Enjoy!
 
 ### Release Notes
 
+#### v1.1.0  2019-03-04
+
+1. Add Aeternity
+1. The performance of Cuckaroo 29 is optimized.
+
 #### v1.0.1  2019-02-22
 
 1. Add support for AMD Hawaii Arch GPU: RX290 RX390
